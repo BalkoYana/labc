@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\lablinq\lablinq\obj\Debug\lablinq.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\lablinq\lablinq\obj\Debug\lablinq.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\lablinq\lablinq\obj\Debug\lablinq.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\lablinq\lablinq\bin\Debug\lablinq.exe.config
+C:\Users\ASUS\source\repos\lablinq\lablinq\bin\Debug\lablinq.exe
+C:\Users\ASUS\source\repos\lablinq\lablinq\bin\Debug\lablinq.pdb
+C:\Users\ASUS\source\repos\lablinq\lablinq\obj\Debug\lablinq.exe
+C:\Users\ASUS\source\repos\lablinq\lablinq\obj\Debug\lablinq.pdb
