@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\filejson\filejson\bin\Debug\filejson.exe.config
+C:\Users\ASUS\source\repos\filejson\filejson\bin\Debug\filejson.exe
+C:\Users\ASUS\source\repos\filejson\filejson\bin\Debug\filejson.pdb
+C:\Users\ASUS\source\repos\filejson\filejson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\filejson\filejson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\filejson\filejson\obj\Debug\filejson.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\filejson\filejson\obj\Debug\filejson.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\filejson\filejson\obj\Debug\filejson.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\filejson\filejson\obj\Debug\filejson.csproj.CopyComplete
+C:\Users\ASUS\source\repos\filejson\filejson\obj\Debug\filejson.exe
+C:\Users\ASUS\source\repos\filejson\filejson\obj\Debug\filejson.pdb
