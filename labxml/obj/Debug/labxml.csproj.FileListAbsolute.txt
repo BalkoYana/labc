@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\labxml\labxml\bin\Debug\labxml.exe.config
+C:\Users\ASUS\source\repos\labxml\labxml\bin\Debug\labxml.exe
+C:\Users\ASUS\source\repos\labxml\labxml\bin\Debug\labxml.pdb
+C:\Users\ASUS\source\repos\labxml\labxml\obj\Debug\labxml.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\labxml\labxml\obj\Debug\labxml.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\labxml\labxml\obj\Debug\labxml.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\labxml\labxml\obj\Debug\labxml.exe
+C:\Users\ASUS\source\repos\labxml\labxml\obj\Debug\labxml.pdb
