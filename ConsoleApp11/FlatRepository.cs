@@ -23,12 +23,6 @@ namespace ConsoleApp11
         {
             return _dbcontext.Flats
                 .Where(flat => flat.Price == price)
-                .Select(flat => new Flat
-                {
-                    Id = flat.Id,
-                    Square = flat.Square,
-                    Price = flat.Price
-                })
                 .ToList();
         }
 
