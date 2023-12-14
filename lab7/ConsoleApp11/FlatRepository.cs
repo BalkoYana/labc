@@ -56,7 +56,7 @@ namespace ConsoleApp11
         }
         public List<Count> F(int number)
         {
-            string query = $"select count(*) as area, price from [Table] group by price having count(*) >{number}";
+            
            return _dbcontext.Flats.GroupBy(flat => flat.Price)
         .Where(group => group.Count() > number)
         .Select(group => new Count { Price = group.Key, Count1 = group.Count() })
@@ -65,7 +65,7 @@ namespace ConsoleApp11
         }
         public List<Count> G()
         {
-            string query = $"select count(*) ,price from [Table] group by price order by [Table].price ASC;";
+            
             return _dbcontext.Flats.GroupBy(t => t.Price)
     .Select(g => new Count { Price = g.Key, Count1 = g.Count() })
     .OrderBy(x => x.Price)
